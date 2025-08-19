@@ -50,7 +50,7 @@ The dashboard answers the following business questions:
 ## 📸 Dashboard Preview
 👉 *Add dashboard screenshots in the `images/` folder and display them here:*  
 
-![Dashboard Screenshot](images/dashboard.png)  
+![Dashboard Screenshot](images/BLINKIT DASHBOARD SS.png)  
 
 ---
 
