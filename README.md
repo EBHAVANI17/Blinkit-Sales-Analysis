@@ -54,7 +54,7 @@ The dashboard answers the following business questions:
 ---
 
 ## 🛠️ Tools & Technologies
-- **Power BI** → Data modeling & interactive dashboards  
+- **Power BI** → Data Visualization & interactive dashboards  
 - **Excel / CSV Dataset** → Source data for analysis  
 
 ---
@@ -62,14 +62,7 @@ The dashboard answers the following business questions:
 ## 💡 Key Insights (Sample)
 - Low-fat products contributed ~60% of total sales  
 - Medium-sized outlets recorded the highest revenue share  
-- Tier-1 cities consistently outperformed Tier-2 and Tier-3 in both sales and customer ratings  
-
----
-
-## 📥 How to Explore the Dashboard
-1. Clone or download this repository  
-2. Open `Blinkit_Analysis.pbix` in **Power BI Desktop**  
-3. Interact with slicers and charts to explore the insights  
+- Tier-1 cities consistently outperformed Tier-2 and Tier-3 in both sales and customer ratings   
 
 ---
 
