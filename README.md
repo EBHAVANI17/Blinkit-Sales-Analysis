@@ -48,9 +48,8 @@ The dashboard answers the following business questions:
 ---
 
 ## 📸 Dashboard Preview
-👉 *Add dashboard screenshots in the `images/` folder and display them here:*  
+👉 <img width="1363" height="778" alt="image" src="https://github.com/user-attachments/assets/191dd487-0890-4fbf-9c0a-c9d75e2e134a" />
 
-![Dashboard Screenshot](images/BLINKIT DASHBOARD SS.png)  
 
 ---
 
